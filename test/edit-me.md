@@ -35,7 +35,6 @@ Robots *should (The Isaac Asimov Collection ed.)* never try to be human
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
 
-
 👉 When you've completed all these steps, enter DONE into the bigger text box and commit your changes below.
 
 👉 Stick your Post-It note onto your computer so I know you're finished.
