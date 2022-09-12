@@ -31,7 +31,7 @@ Robots should never try to be human
 
 👉 Paste your entry below and italicize the second word of your entry.
 ### Fourth Law
-Robots should (The Isaac Asimov Collection ed.) never try to be human
+Robots *should (The Isaac Asimov Collection ed.)* never try to be human
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
 
