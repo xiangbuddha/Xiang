@@ -23,13 +23,15 @@ ___
 Robots should never try to be human
 
 👉 Create a heading that says "Fourth Law of Robotics."
-
+## Fourth Law of Robotics
 
 👉 Paste your entry below and bold the first and last words of your entry.
-
+### Fourth Law
+Robots should never try to be human
 
 👉 Paste your entry below and italicize the second word of your entry.
-
+### Fourth Law
+Robots should (The Isaac Asimov Collection ed.) never try to be human
 
 👉 Download the image in the test folder, robot.jpg. Then drag and drop the image from your computer into this document anywhere you like.
 
