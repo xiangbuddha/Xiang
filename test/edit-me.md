@@ -2,7 +2,7 @@
 
 [(use the cheatsheet here if you get stuck!)](https://www.markdownguide.org/cheat-sheet/)
 
-## The Three Laws of Robotics
+## Fourth Law of Robotics
 Citation: Asimov, Isaac (1950). "Runaround". *I, Robot (The Isaac Asimov Collection ed.)*. New York City: Doubleday. p. 40. ISBN 978-0-385-42304-5.
 
 ### First Law
@@ -14,10 +14,13 @@ A robot must obey the orders given it by human beings except where such orders w
 ### Third Law
 A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.
 
+### Fourth Law
+Robots should never try to be human
+
 ___
 
 👉 What is the Fourth Law of Robotics? (Feel free to make up something silly.) Write it on the next line.
-
+Robots should never try to be human
 
 👉 Create a heading that says "Fourth Law of Robotics."
 
